@@ -7,6 +7,7 @@ RHEL 7 CIS
 
 test1
 test2
+test3
 Configure RHEL/Centos 7 machine to be [CIS](https://www.cisecurity.org/cis-benchmarks/) compliant
 Untested on OEL
 
